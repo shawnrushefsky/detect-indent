@@ -1,5 +1,5 @@
 # detect-indent
-Detects Indentation in JSON files
+This was designed to detect the indentation in json files, but it should work on any kind of consistently indented file (python, js, etc).
 
 # API
 
