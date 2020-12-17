@@ -1,0 +1,16 @@
+{
+  "name": "detect-indent",
+  "version": "1.0.0",
+  "description": "Detects Indentation in JSON files",
+  "main": "detect-indent.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Shawn Rushefsky",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.2.1"
+  }
+}
